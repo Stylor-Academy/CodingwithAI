@@ -1,0 +1,21 @@
+{
+  "name": "browser-jumping-dinosaur",
+  "version": "1.0.0",
+  "description": "A simple browser-based jumping dinosaur game.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "keywords": [
+    "game",
+    "dinosaur",
+    "browser",
+    "jumping"
+  ],
+  "author": "",
+  "license": "ISC"
+}
